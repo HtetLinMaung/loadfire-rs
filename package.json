@@ -1,0 +1,24 @@
+{
+  "name": "loadfire-rs",
+  "version": "1.0.0",
+  "description": "A Node.js CLI wrapper for running the LoadFire Rust binary across different platforms",
+  "bin": {
+    "loadfire-rs": "./index.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "load-testing",
+    "rust",
+    "cli",
+    "cross-platform"
+  ],
+  "author": "Htet Lin Maung",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.10.3",
+    "typescript": "^5.3.2"
+  }
+}
