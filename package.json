@@ -1,6 +1,6 @@
 {
   "name": "loadfire-rs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Node.js CLI wrapper for running the LoadFire Rust binary across different platforms",
   "bin": {
     "loadfire-rs": "./index.js"
